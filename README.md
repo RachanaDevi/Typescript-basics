@@ -12,7 +12,7 @@ Typescript is statically typed language which is a superset of Javascript. It ha
 - Has shorthand notations like arrow functions, optional chaining and nullish coalescing. ( This is also present in Javascript too)
 
 ### Disadvantages:
-- You have to do transpliation i.e converting from typescript to javascript
+- You have to do transpilation i.e converting from typescript to javascript
 - Not understood by browsers
 
 
