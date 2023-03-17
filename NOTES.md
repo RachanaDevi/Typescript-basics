@@ -20,3 +20,4 @@ noEmitOnError: if there is any error on js file will be created
 
 Then you can just run `tsc` and no need to mention `tsc index.ts`
 
+### Debugging typescript applications
