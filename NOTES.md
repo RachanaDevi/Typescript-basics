@@ -24,3 +24,4 @@ Then you can just run `tsc` and no need to mention `tsc index.ts`
 enable sourceMapUrl for debugging and then in VSCODE click on run and debug and it will create a launch.json file
 You have to add a setting to use typescript compiler to build the configuration file
 "preLaunchTask": "tsc: build - tsconfig.json"
+"preLaunchTask": "tsc build - hello-world/tsconfig.json",
