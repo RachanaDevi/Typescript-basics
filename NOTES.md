@@ -21,3 +21,6 @@ noEmitOnError: if there is any error on js file will be created
 Then you can just run `tsc` and no need to mention `tsc index.ts`
 
 ### Debugging typescript applications
+enable sourceMapUrl for debugging and then in VSCODE click on run and debug and it will create a launch.json file
+You have to add a setting to use typescript compiler to build the configuration file
+"preLaunchTask": "tsc: build - tsconfig.json"
